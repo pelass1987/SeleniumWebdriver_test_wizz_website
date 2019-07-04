@@ -6,7 +6,8 @@
 * Warunek wstępny: Uruchomiona przeglądarka. Użytkownik nie jest zalogowany. 
 
 
-Kroki: 1. Wejdź na stronę "https://wizzair.com/pl-pl#/" 
+Kroki: 
+* 1. Wejdź na stronę "https://wizzair.com/pl-pl#/" 
 * 2. Kliknij "ZALOGUJ SIĘ" 
 * 3. Kliknij "REJESTRACJA" 
 * 4. Wpisz imię 
